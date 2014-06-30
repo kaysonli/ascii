@@ -1,0 +1,70 @@
+---
+layout: post
+title: people/famous/marylin%20monroe
+category : 字符画
+tags : people/famous/marylin%20monroe
+---
+{% include JB/setup %}
+# people/famous/marylin%20monroe
+---
+{% raw %}
+<pre>
+
+
+               iWWMMMMBt+++VBMBRBVBXXXBBBMMMMMMBMMMM 
+             iWMRRXRRI+IVBXXBBBBBBRBXXRBMBMRXXXBBBMMMM 
+            VWMRYiYVXtIRBBBBMMMMMMMMMMMMWWMMMBXYtIYXMBB 
+          =RWWWBI  =BRXXRRRBBMMMMMMMWMMMMMMMMBBBRVVXRXRV 
+         tWWMWWWY ;WBXVXXRRBBMMMMMMWWWMMWWWWMMMBRRXXXVVI
+        +WWWMMWWX;VBVIVVXRRRMMMWWWWWWWMMWWWWMMMBRRBRRRVi
+        MWWWWBRMBYXVVXI+;;+iIXBWWWWWWWWWWWWWWMMBBBRBBBBMI
+       XWWWWMVRXVt;t+=IXBRRYi=iVMWWWWWWMXVYIYVYVBBBBBBRBMBI
+      ,MWMWBYXXRBR=.=tYVBMMWMV=+RMWWWWBXVIVRRRRViIBBRBXYMWWV
+       MWRRItRBMMMM::+,+ttIVVMM;iBMWWMRRMMWWMBRRRYiVVtVVRBMY
+       MWXtX=tMMMMMIt,.:=tYBMRBBIBWWMMMVIItXBMXVVI+tIiI:YRXMB
+       WMBIiR+YtBBMXRBMMMMMMMBRYRMWMMMMWWXti,.;tItIIYYiRRBBMMV
+     ,MWMMtIRR=,+XBBMMMMMMMMWR:;RWWBRMMWWWMBRXYXBBXYYV+VMWMBMMM
+     VWMMi::BW,  IIRMMMMWWWWX+..,I+:iMMWWWWWWMMMBBRXVXYRMMWMBMMX
+    +WMMY::,BX   :RMBMMMWWMMRYVVXMWBXVMWWWWWWWMMBRXXXXYIRMBMMBBMR
+    =WMBBi:tt    tBBRBBMMMMRYtitYYVXMWWWWWMWWMMBXXVYXVi:VMMMMMMWV
+     RWRV+,;,,   XBRRRBBBt,..:+t=+:..+RWWWWWMBBXVVVXXIiI:IVMMBMMMW
+     IMRBRRBMB=  YXRRRBBBB,..+YBBBBV...=MWWMBBRRVVXXBYXRRBXBMMBMMMB
+     tMYitIXMi    iYXXRXRBRt;.:itt=:=iXMWWWMBBRRVXXRRVRMWWMMMMMMBBB
+    :MR:.,:Ii      YVVXRBBBMMRRRBMWMMMMMMMMBBRXXXYY+VMXMWMBMMBBVVRI
+    :RY+            iVRBBBBMMMWWWMMMMMMMBBBBRRXVt.iXYRYXMBBBYItVVt
+     =XVY,            ;tVRBBMMMWWWMMMMBMBBBBXVYt  iXBMWWMRVXYXMMY
+      RX:,              ,,;+tIIVXRBBRXVVIIi=,.=  iYYt+;,;iYRMMXt
+
+
+
+                   _,,jpygQQQQQQQQQQQQQQQQQyQ4(4
+               jyQQQQQQQQQQQQQMQQQQQQQQQQQQQQQQ4
+            ,pQQQQMMQMMMCCCC44444(MQMMMQQQQQQQQQ
+           (QQQQQ(C444^ ~     44{&lt;44(4((4M0MQQQQf
+          (QQQQM`         ,4p44p(44&lt;&lt; 4&lt;44((QQQQQ(
+          QQQQM`        444Q([4M4&lt;(((y4((4C44GQQQ4.
+          QQQQ$      .(4(p(4(((4&lt;,(&lt;(4(4   .4(QQQQQp.
+         QQQQ4(    .4QQQQQQQQ44pQQQQQQQQ#Q44(QQQQQQQQ(
+         QQQQ(4.  ,pQQQQQQQQQQQQQQQMQQQQGGGGQQQQQQQQQQC,
+         pQQQ[4   4QQQQQQQQQQQQQQQQQQQQ(4((((4QQQQQQQQQQ,
+        44GGMC(  &lt;GQQQQQQQQQQQQQQQQQQ4(((((((4((t(($QQQQC.
+        44(((((. .GQQQQQQQQQQQQQQQQ0(((((((444&lt;((4C44(0QQC.
+       &lt;C4C4(444.&lt;4(t4GMQQQQQQQQQ004((4(44(44C4(&lt;&lt;..444MQQ(.
+       .4(Q(4444. (p&lt;&lt;&lt;&lt;4Q4QQQQ[((4`  ..., ~4~ &lt;4..`444GQQQ,
+    ~_,4QQQG444&lt;4 (((44444(QG4(4.   .44((44..   .. 4444GQQQQ4
+     `4QQQQM444.444(44M((C(QQG4.  ,pp(((.&lt;~~   ..  44444QQQQQ4
+    .pQQQQ0[4444  ` .   _jWpQ[4 ,(&quot;,,        ....    (4QQQQQQQQQ[
+    jQtMM$$Q((4(j4pp(((4QQQQQ((44([t(4. . 444.... .   4MQQQQQQQQQ,
+   jQGQQg44(((4 pQQQQQQQQQQQQ4444(tQGpGpQ4444.~.&lt;.    4QQQQQQQQQQ4.
+   40pQQQQ(4&lt;   OQQQQQQQQ0Q0$(4.4(4QQQQM((444  &lt;..    4QQQQQQQQQQQy,
+   44(QQQ$4(,.  ((QQQQQMQ(44`   44pQQQ44444  ...      jQQQQQQQQQQQQQ4
+    4Qt4((444.  ((4QQQQQQpp(,     GQQ$(44C  ...      .&lt;QQQQQQQQQQQQQC
+     ((44444.   4(4QQQQQQMMQQ$(44((4((4C.   ..     ..(4QQQQ0QQQQQQQQ(
+      4[(&lt;,,,.   (((044C`````````&lt;&lt;((444....       4jQQQQM0QM[(44QQQ4
+       4(4.`     ((G[(p.&lt;44&lt;&lt;,. . ,4(((4.   ..    44QQMM44((((4((pQQ(
+       &lt;((       `[4$44((,``....,((((4444..       ((((C444444C44(Q$4
+        4444,     4(t4QQQ44((&lt;(4444((4&lt;&lt;  ..      .~~  ..C44&lt;44(4(4
+        44&lt;4&lt;4&lt;j#4CC(44QQQQQQpt(((44.C  .       .          .44(tC,
+        44444 ~&lt;Q4&amp;( `((4((((((44&lt;~             |.(       .44(4QB.
+        4C44C444Q444  4(.~`~&lt;                   (.,      &lt;444(QQQ. </pre>
+{% endraw %}

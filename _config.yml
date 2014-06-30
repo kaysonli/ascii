@@ -1,0 +1,8 @@
+name: 字符画精选
+markdown: redcarpet
+pygments: true
+permalink: /:year/:month/:title/
+url: http://lzkwin.github.io/ascii/
+author:
+    name: Kayson Li
+    twitter: #
