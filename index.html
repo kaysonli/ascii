@@ -6,48 +6,15 @@ layout: default
 		<h1>{{ site.name }}</h1>
 	</header>
 	<div id="grid-gallery" class="grid-gallery">
-
-	<section class="grid-wrap">
-	<ul class="grid">
-		<li class="grid-sizer"></li><!-- for Masonry column width -->
-		{% for post in site.posts %}
-		<li>
-			<figure>
-				
-				<figcaption>
-					<h3>{{ post.caption_header}}</h3>
-					<p>{{ post.caption }}</p>
-					<p>{{ post.title }}</p>
-				</figcaption>
-			</figure>
-		</li>
+		{% for category in site.categories %}
+		<div class = "box">
+			<h2 id="{{ category[0] }}-ref" class="hat_title">{{ category[0] | join: "/" }}</h2>
+			<ul>
+				{% assign pages_list = category[1] %}  
+    					{% include JB/pages_list %}
+			</ul>
+		</div>
 		{% endfor %}
-	</ul>
-	</section><!-- // grid-wrap -->
-
-	<section class="slideshow">
-	<ul>
-		{% for post in site.posts %}
-		<li>
-			<figure>
-				{% if post.clickUrl %}
-					<a href="{{ post.clickUrl }}" target="_blank"><img src="{{ post.photo }}" alt="img"/></a>
-				{% else %}
-					
-				{% endif %}
-				
-				<figcaption><h3>{{ post.caption_header}}</h3><p>{{ post.caption }}</p></figcaption>
-			</figure>
-		</li>
-		{% endfor %}
-	</ul>
-	<nav>
-		<span class="icon nav-prev"></span>
-		<span class="icon nav-next"></span>
-		<span class="icon nav-close"></span>
-	</nav>
-	<div class="info-keys icon">Navigate with arrow keys</div>
-	</section><!-- // slideshow -->
-
-	</div><!-- // grid-gallery -->
+	</div>
+	<!-- // grid-gallery -->
 </div>

@@ -9,8 +9,6 @@
     <meta name="keywords" content="jekyll, image gallery, image grid, template, masonry" />
     <meta name="author" content="Kayson Li" />
 
-    <link rel="stylesheet" type="text/css" href="{{ site.url }}/css/demo.css" />
-    <link rel="stylesheet" type="text/css" href="{{ site.url }}/css/component.css" />
     <script src="{{ site.url }}/js/modernizr.custom.js"></script>
   </head>
   <body>
@@ -18,11 +16,11 @@
   {{ content }}
 
     <script src="{{ site.url }}/js/imagesloaded.pkgd.min.js"></script>
-    <script src="{{ site.url }}/js/masonry.pkgd.min.js"></script>
-    <script src="{{ site.url }}/js/classie.js"></script>
-    <script src="{{ site.url }}/js/cbpGridGallery.js"></script>
-    <script>
-      new CBPGridGallery( document.getElementById( 'grid-gallery' ) );
+    <script src="{{ site.url }}/js/dictionary.js"></script>
+    <script src="{{ site.url }}/js/jquery-1.7.1.min.js"></script>
+    <script src="{{ site.url }}/js/waterfall.js"></script>
+    <script type="text/javascript">
+        waterfallLayout('container');
     </script>
   </body>
 </html>
