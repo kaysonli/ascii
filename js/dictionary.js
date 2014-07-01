@@ -150,7 +150,7 @@ window.dictionary = {
 	"new year": "新的一年",
 	"thanksgiving": "感恩节",
 	"valentine": "情人节",
-	"logos and insignias": "标识和标志全不",
+	"logos and insignias": "标识和符号",
 	"amnesty international": "国际特赦组织",
 	"bauhaus": "包豪斯",
 	"caduceus": "墨丘利的节",
