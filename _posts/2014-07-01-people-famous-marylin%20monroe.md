@@ -1,11 +1,11 @@
 ---
 layout: post
-title: famous
+title: famous/marylin%20monroe
 category : people
-tags : [famous,people]
+tags : [famous/marylin%20monroe,people]
 ---
 {% include JB/setup %}
-# famous
+# famous/marylin%20monroe
 ---
 {% raw %}
 <pre>

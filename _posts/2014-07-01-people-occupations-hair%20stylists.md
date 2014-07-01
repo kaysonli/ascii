@@ -1,11 +1,11 @@
 ---
 layout: post
-title: occupations
+title: occupations/hair%20stylists
 category : people
-tags : [occupations,people]
+tags : [occupations/hair%20stylists,people]
 ---
 {% include JB/setup %}
-# occupations
+# occupations/hair%20stylists
 ---
 {% raw %}
 <pre>

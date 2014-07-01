@@ -8,7 +8,7 @@ layout: default
 	<div id="grid-gallery" class="grid-gallery">
 		{% for category in site.categories %}
 		<div class = "box">
-			<h2 id="{{ category[0] }}-ref" class="hat_title">{{ category[0] | join: "/" }}</h2>
+			<h2 id="{{ category[0] }}-ref" class="hat_title decode">{{ category[0] | join: "/" }}</h2>
 			<ul>
 				{% assign pages_list = category[1] %}  
     					{% include JB/pages_list %}

@@ -1,11 +1,11 @@
 ---
 layout: post
-title: famous
+title: famous/barack%20obama
 category : people
-tags : [famous,people]
+tags : [famous/barack%20obama,people]
 ---
 {% include JB/setup %}
-# famous
+# famous/barack%20obama
 ---
 {% raw %}
 <pre>

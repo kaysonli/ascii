@@ -1,11 +1,11 @@
 ---
 layout: post
-title: furniture
+title: furniture/office
 category : objects
-tags : [furniture,objects]
+tags : [furniture/office,objects]
 ---
 {% include JB/setup %}
-# furniture
+# furniture/office
 ---
 {% raw %}
 <pre>

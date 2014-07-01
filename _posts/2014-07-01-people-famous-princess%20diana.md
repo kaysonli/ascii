@@ -1,11 +1,11 @@
 ---
 layout: post
-title: famous
+title: famous/princess%20diana
 category : people
-tags : [famous,people]
+tags : [famous/princess%20diana,people]
 ---
 {% include JB/setup %}
-# famous
+# famous/princess%20diana
 ---
 {% raw %}
 <pre>

@@ -1,11 +1,11 @@
 ---
 layout: post
-title: coca-cola
+title: coca/cola
 category : logos%20and%20insignias
-tags : [coca-cola,logos%20and%20insignias]
+tags : [coca/cola,logos%20and%20insignias]
 ---
 {% include JB/setup %}
-# coca-cola
+# coca/cola
 ---
 {% raw %}
 <pre>

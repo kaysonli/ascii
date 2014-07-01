@@ -1,11 +1,11 @@
 ---
 layout: post
-title: christmas
+title: christmas/trees
 category : holiday
-tags : [christmas,holiday]
+tags : [christmas/trees,holiday]
 ---
 {% include JB/setup %}
-# christmas
+# christmas/trees
 ---
 {% raw %}
 <pre>

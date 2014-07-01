@@ -1,11 +1,11 @@
 ---
 layout: post
-title: famous
+title: famous/cher
 category : people
-tags : [famous,people]
+tags : [famous/cher,people]
 ---
 {% include JB/setup %}
-# famous
+# famous/cher
 ---
 {% raw %}
 <pre>

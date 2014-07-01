@@ -1,11 +1,11 @@
 ---
 layout: post
-title: famous
+title: famous/michelle%20pfeiffer
 category : people
-tags : [famous,people]
+tags : [famous/michelle%20pfeiffer,people]
 ---
 {% include JB/setup %}
-# famous
+# famous/michelle%20pfeiffer
 ---
 {% raw %}
 <pre>

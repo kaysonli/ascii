@@ -1,11 +1,11 @@
 ---
 layout: post
-title: project%20a-ko
+title: project%20a/ko
 category : anime%20and%20manga
-tags : [project%20a-ko,anime%20and%20manga]
+tags : [project%20a/ko,anime%20and%20manga]
 ---
 {% include JB/setup %}
-# project%20a-ko
+# project%20a/ko
 ---
 {% raw %}
 <pre>

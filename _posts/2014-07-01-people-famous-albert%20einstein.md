@@ -1,11 +1,11 @@
 ---
 layout: post
-title: famous
+title: famous/albert%20einstein
 category : people
-tags : [famous,people]
+tags : [famous/albert%20einstein,people]
 ---
 {% include JB/setup %}
-# famous
+# famous/albert%20einstein
 ---
 {% raw %}
 <pre>

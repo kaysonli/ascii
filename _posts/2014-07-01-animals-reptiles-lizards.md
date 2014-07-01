@@ -1,11 +1,11 @@
 ---
 layout: post
-title: reptiles
+title: reptiles/lizards
 category : animals
-tags : [reptiles,animals]
+tags : [reptiles/lizards,animals]
 ---
 {% include JB/setup %}
-# reptiles
+# reptiles/lizards
 ---
 {% raw %}
 <pre>

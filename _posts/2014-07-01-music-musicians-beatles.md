@@ -1,11 +1,11 @@
 ---
 layout: post
-title: musicians
+title: musicians/beatles
 category : music
-tags : [musicians,music]
+tags : [musicians/beatles,music]
 ---
 {% include JB/setup %}
-# musicians
+# musicians/beatles
 ---
 {% raw %}
 <pre>

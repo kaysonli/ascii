@@ -1,11 +1,11 @@
 ---
 layout: post
-title: kool-aid
+title: kool/aid
 category : logos%20and%20insignias
-tags : [kool-aid,logos%20and%20insignias]
+tags : [kool/aid,logos%20and%20insignias]
 ---
 {% include JB/setup %}
-# kool-aid
+# kool/aid
 ---
 {% raw %}
 <pre>

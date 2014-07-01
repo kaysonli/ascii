@@ -1,11 +1,11 @@
 ---
 layout: post
-title: insects
+title: insects/other
 category : animals
-tags : [insects,animals]
+tags : [insects/other,animals]
 ---
 {% include JB/setup %}
-# insects
+# insects/other
 ---
 {% raw %}
 <pre>

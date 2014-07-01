@@ -1,11 +1,11 @@
 ---
 layout: post
-title: famous
+title: famous/al%20pacino
 category : people
-tags : [famous,people]
+tags : [famous/al%20pacino,people]
 ---
 {% include JB/setup %}
-# famous
+# famous/al%20pacino
 ---
 {% raw %}
 <pre>

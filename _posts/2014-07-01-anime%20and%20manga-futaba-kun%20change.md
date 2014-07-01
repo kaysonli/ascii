@@ -1,11 +1,11 @@
 ---
 layout: post
-title: futaba-kun%20change
+title: futaba/kun%20change
 category : anime%20and%20manga
-tags : [futaba-kun%20change,anime%20and%20manga]
+tags : [futaba/kun%20change,anime%20and%20manga]
 ---
 {% include JB/setup %}
-# futaba-kun%20change
+# futaba/kun%20change
 ---
 {% raw %}
 <pre>

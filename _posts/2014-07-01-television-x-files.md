@@ -1,11 +1,11 @@
 ---
 layout: post
-title: x-files
+title: x/files
 category : television
-tags : [x-files,television]
+tags : [x/files,television]
 ---
 {% include JB/setup %}
-# x-files
+# x/files
 ---
 {% raw %}
 <pre>

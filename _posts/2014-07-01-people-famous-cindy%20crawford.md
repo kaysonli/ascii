@@ -1,11 +1,11 @@
 ---
 layout: post
-title: famous
+title: famous/cindy%20crawford
 category : people
-tags : [famous,people]
+tags : [famous/cindy%20crawford,people]
 ---
 {% include JB/setup %}
-# famous
+# famous/cindy%20crawford
 ---
 {% raw %}
 <pre>

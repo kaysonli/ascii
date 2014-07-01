@@ -1,11 +1,11 @@
 ---
 layout: post
-title: famous
+title: famous/sarah%20michelle%20gellar
 category : people
-tags : [famous,people]
+tags : [famous/sarah%20michelle%20gellar,people]
 ---
 {% include JB/setup %}
-# famous
+# famous/sarah%20michelle%20gellar
 ---
 {% raw %}
 <pre>

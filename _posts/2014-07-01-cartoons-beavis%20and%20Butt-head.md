@@ -1,11 +1,11 @@
 ---
 layout: post
-title: beavis%20and%20Butt-head
+title: beavis%20and%20Butt/head
 category : cartoons
-tags : [beavis%20and%20Butt-head,cartoons]
+tags : [beavis%20and%20Butt/head,cartoons]
 ---
 {% include JB/setup %}
-# beavis%20and%20Butt-head
+# beavis%20and%20Butt/head
 ---
 {% raw %}
 <pre>

@@ -1,11 +1,11 @@
 ---
 layout: post
-title: musicians
+title: musicians/elvis%20presley
 category : music
-tags : [musicians,music]
+tags : [musicians/elvis%20presley,music]
 ---
 {% include JB/setup %}
-# musicians
+# musicians/elvis%20presley
 ---
 {% raw %}
 <pre>

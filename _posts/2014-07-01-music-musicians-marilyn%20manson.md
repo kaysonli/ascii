@@ -1,11 +1,11 @@
 ---
 layout: post
-title: musicians
+title: musicians/marilyn%20manson
 category : music
-tags : [musicians,music]
+tags : [musicians/marilyn%20manson,music]
 ---
 {% include JB/setup %}
-# musicians
+# musicians/marilyn%20manson
 ---
 {% raw %}
 <pre>

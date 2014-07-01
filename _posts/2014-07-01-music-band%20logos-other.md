@@ -1,11 +1,11 @@
 ---
 layout: post
-title: band%20logos
+title: band%20logos/other
 category : music
-tags : [band%20logos,music]
+tags : [band%20logos/other,music]
 ---
 {% include JB/setup %}
-# band%20logos
+# band%20logos/other
 ---
 {% raw %}
 <pre>

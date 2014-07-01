@@ -1,11 +1,11 @@
 ---
 layout: post
-title: body%20parts
+title: body%20parts/lips
 category : people
-tags : [body%20parts,people]
+tags : [body%20parts/lips,people]
 ---
 {% include JB/setup %}
-# body%20parts
+# body%20parts/lips
 ---
 {% raw %}
 <pre>

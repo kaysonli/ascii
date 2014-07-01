@@ -1,11 +1,11 @@
 ---
 layout: post
-title: occupations
+title: occupations/ascii%20artists
 category : people
-tags : [occupations,people]
+tags : [occupations/ascii%20artists,people]
 ---
 {% include JB/setup %}
-# occupations
+# occupations/ascii%20artists
 ---
 {% raw %}
 <pre>

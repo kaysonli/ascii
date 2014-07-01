@@ -1,11 +1,11 @@
 ---
 layout: post
-title: famous
+title: famous/bill%20clinton
 category : people
-tags : [famous,people]
+tags : [famous/bill%20clinton,people]
 ---
 {% include JB/setup %}
-# famous
+# famous/bill%20clinton
 ---
 {% raw %}
 <pre>

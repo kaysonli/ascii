@@ -1,11 +1,11 @@
 ---
 layout: post
-title: occupations
+title: occupations/bodybuilders
 category : people
-tags : [occupations,people]
+tags : [occupations/bodybuilders,people]
 ---
 {% include JB/setup %}
-# occupations
+# occupations/bodybuilders
 ---
 {% raw %}
 <pre>

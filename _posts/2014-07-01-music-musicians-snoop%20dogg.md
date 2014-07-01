@@ -1,11 +1,11 @@
 ---
 layout: post
-title: musicians
+title: musicians/snoop%20dogg
 category : music
-tags : [musicians,music]
+tags : [musicians/snoop%20dogg,music]
 ---
 {% include JB/setup %}
-# musicians
+# musicians/snoop%20dogg
 ---
 {% raw %}
 <pre>

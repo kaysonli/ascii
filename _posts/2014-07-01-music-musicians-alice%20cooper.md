@@ -1,11 +1,11 @@
 ---
 layout: post
-title: musicians
+title: musicians/alice%20cooper
 category : music
-tags : [musicians,music]
+tags : [musicians/alice%20cooper,music]
 ---
 {% include JB/setup %}
-# musicians
+# musicians/alice%20cooper
 ---
 {% raw %}
 <pre>
