@@ -27,9 +27,9 @@ Usage:
     {% if node.title != null %}
       {% if group == null or group == node.group %}
       	{% if page.url == node.url %}
-      	<li class="active"><a href="{{ BASE_PATH }}{{node.url}}" target="_blank" class="active decode">{{node.title}}</a></li>
+      	<li class="active"><a href="{{ site.url }}{{node.url}}" target="_blank" class="active decode">{{node.title}}</a></li>
       	{% else %}
-      	<li><a href="{{ BASE_PATH }}{{node.url}}" class="decode" target="_blank">{{node.title}}</a></li>
+      	<li><a href="{{ site.url }}{{node.url}}" class="decode" target="_blank">{{node.title}}</a></li>
       	{% endif %}
       {% endif %}
     {% endif %}
