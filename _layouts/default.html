@@ -16,25 +16,12 @@
   {{ content }}
 
     <script src="{{ site.url }}/js/imagesloaded.pkgd.min.js"></script>
-    <script src="{{ site.url }}/js/dictionary.js"></script>
     <script src="{{ site.url }}/js/jquery-1.7.1.min.js"></script>
     <script src="{{ site.url }}/js/waterfall.js"></script>
     <script type="text/javascript">
-        // waterfallLayout('grid-gallery');
-        $(function(){
-          var dic = window.dictionary;
-          $('.decode').each(function(){
-            var name = $(this).text();
-            var parts = name.split('/');
-            for (var i = 0; i < parts.length; i++) {
-              var p = decodeURI(parts[i]);
-              if(dic[p]){
-                parts[i] = dic[p];
-              }
-            };
-            $(this).text(parts.join('/'));
-          })
-        })
     </script>
+    {% include JB/comments %}
+    {% include JB/sharing %}
+    {% include JB/analytics %}
   </body>
 </html>
