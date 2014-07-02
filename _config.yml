@@ -1,7 +1,16 @@
-name: 字符画精选
+name: 字符画大全
 markdown: redcarpet
 pygments: true
 permalink: /:year/:month/:title/
+JB :
+  version : 0.3.0
+  BASE_PATH : /blog
+  comments :
+    provider : uyan
+  analytics :
+    provider : baidu
+  sharing :
+    provider : baidu
 url: http://lzkwin.github.io/ascii/
 author:
     name: Kayson Li

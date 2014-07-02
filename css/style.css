@@ -1,0 +1,14 @@
+pre {
+	font-size: 12px;
+	line-height: 12px;
+	width: 728px;
+	margin: auto;
+	border: 10px solid #FFE4B5;
+	padding: 10px;
+	border-radius: 10px;
+	font-family: "Droid Sans Mono", "Lucida Console", "Andale Mono", "Courier New", "Courier", monospace;
+}
+
+a.back-home {
+	color: red;
+}
