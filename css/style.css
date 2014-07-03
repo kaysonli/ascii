@@ -12,3 +12,28 @@ pre {
 a.back-home {
 	color: red;
 }
+
+div.box {
+	width: 280px;
+	padding: 5px;
+	/*float: left;*/
+	position: absolute;
+
+}
+
+div.box .innerBox {
+	border: 10px solid #FFE4B5;
+	border-radius: 10px;
+}
+
+.clear {
+	clear: both;
+}
+
+div.box ul{
+	
+}
+
+.grid-gallery {
+	position: relative;
+}

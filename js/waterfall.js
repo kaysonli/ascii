@@ -2,15 +2,20 @@
  * waterfall.js v1.0.0
  * http://www.zoneky.com
  *
- * 
+ *
  * Copyright 2014, Kayson Li
  * http://www.zoneky.com
  */
-;( function( window ) {
-	
+;
+(function(window) {
+
 	window.onload = function() {
 		// generateElements();
-		// waterfall();
+		waterfall('grid-gallery');
+	}
+
+	window.onresize = function() {
+		waterfall('grid-gallery');
 	}
 
 	function generateElements() {
@@ -34,11 +39,15 @@
 		for (var i = 0; i < targets.length; i++) {
 			if (i < cols) {
 				hArr.push(targets[i].offsetHeight);
+				targets[i].style.top = '0px';
+				targets[i].style.left = boxWidth * i + 'px';
 			} else {
 				// var min = findMin(hArr);
 				// var minH = min.value, index = min.index;
-				var minH = Math.min.apply(null, hArr),
-					index = hArr.indexOf(minH);
+				console.log(hArr);
+				var minObj = findMin(hArr);
+				var minH = minObj.element,
+					index = minObj.index;
 				targets[i].style.position = 'absolute';
 				targets[i].style.top = minH + 'px';
 				targets[i].style.left = boxWidth * index + 'px';
@@ -46,6 +55,22 @@
 			}
 		};
 		console.log(hArr);
+	}
+
+	function findMin(array) {
+		var min = array[0],
+			index = 0;
+		for (var i = 0; i < array.length; i++) {
+			var elem = array[i];
+			if (elem < min) {
+				min = elem;
+				index = i;
+			}
+		};
+		return {
+			element: min,
+			index: index
+		};
 	}
 
 	function getElementsByClass(parent, className) {
@@ -59,4 +84,4 @@
 		return targets;
 	}
 	window.waterfallLayout = waterfall;
-})( window );
+})(window);

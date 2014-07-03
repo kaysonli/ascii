@@ -8,13 +8,16 @@ layout: default
 	<div id="grid-gallery" class="grid-gallery">
 		{% for category in site.categories %}
 		<div class = "box">
-			<h2 id="{{ category[0] }}-ref" class="hat_title decode">{{ category[0] | join: "/" }}</h2>
-			<ul>
-				{% assign pages_list = category[1] %}  
-    					{% include JB/pages_list %}
-			</ul>
+			<div class="innerBox">
+				<h2 id="{{ category[0] }}-ref" class="hat_title decode">{{ category[0] | join: "/" }}</h2>
+				<ul>
+					{% assign pages_list = category[1] %}  
+	    					{% include JB/pages_list %}
+				</ul>
+			</div>
 		</div>
 		{% endfor %}
 	</div>
+	<div class="clear"></div>
 	<!-- // grid-gallery -->
 </div>
