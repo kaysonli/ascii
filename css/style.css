@@ -30,10 +30,15 @@ div.box .innerBox {
 	clear: both;
 }
 
-div.box ul{
-	
+div.box h2{
+	text-align: center;
+}
+
+div.box a {
+	text-decoration: none;
 }
 
 .grid-gallery {
 	position: relative;
+	margin: 15px auto;
 }

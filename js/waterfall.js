@@ -33,7 +33,7 @@
 		var targets = getElementsByClass(container, 'box');
 		var boxWidth = targets[0].offsetWidth;
 		var cols = ~~ (document.documentElement.clientWidth / boxWidth);
-		container.style.cssText = 'width: ' + cols * boxWidth + 'px; margin: 15px auto;';
+		container.style.width = cols * boxWidth + 'px';
 
 		var hArr = [];
 		for (var i = 0; i < targets.length; i++) {
@@ -54,6 +54,8 @@
 				hArr[index] = minH + targets[i].offsetHeight;
 			}
 		};
+		var maxH = Math.max.apply(null, hArr);
+		container.style.height = maxH + 'px';
 		console.log(hArr);
 	}
 
