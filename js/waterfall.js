@@ -11,8 +11,8 @@
 
 	window.onload = function() {
 		// generateElements();
-		waterfall('grid-gallery');
 	}
+	waterfall('grid-gallery');
 
 	window.onresize = function() {
 		waterfall('grid-gallery');
