@@ -10,7 +10,6 @@
 (function(window) {
 
 	window.onload = function() {
-		// generateElements();
 	}
 	waterfall('grid-gallery');
 
